@@ -1,4 +1,4 @@
-package graph.kruskal;
+package algorithm.kruskal;
 
 import java.util.Arrays;
 import java.util.Comparator;
